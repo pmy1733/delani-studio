@@ -1,55 +1,45 @@
-# Delani-Studio
-
+# Delani Studio  Week 3
 ## Author
 
-[Owiti-Charles](https://github.com/Owiti-Charles)
+[Pharminous Nyabuto](https://github.com/pmy1733)
 
-## Description
+## Project Description
 
-This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
+The web app: Delani studio shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 
-## Screenshot
-<img src="https://raw.githubusercontent.com/Owiti-Charles/Delani-Studio/master/images/delanihome.png" width="900px" height="440px">
-
-## Live Page 
-https://Owiti-charles.github.io/Delani-Studio 
+## Link 
+https://github.com/pmy1733/delani-studio
 
 
-## Installation / Setup instruction
-* Open Terminal {Ctrl+Alt+T}
+## Setup instructions
 
-* git clone ```https://github.com/Owiti-Charles/Delani-Studio.git```
+* git clone ```https://github.com/pmy1733/delani-studio```
 
-* cd Delani-Studio
+* Run Locally from the clonned repo
 
-* code . or atom . depending on the text editor of your choise.
+## Technologies Stack
 
-## Technologies Used
 
-* [HTML5](https://github.com/topics/html5)
 * [CSS](https://github.com/topics/css3)
-* [Bootstrap](https://github.com/topics/bootstrap)
+* [HTML5](https://github.com/topics/html5)
 * [jQuery](https://github.com/topics/javascript)
-* markdown
+* [Bootstrap](https://github.com/topics/bootstrap)
+* markdown (for README.md)
 
 
 ## BDD
-| Behaviour      | Input        | Output       |
-| :------------- | :----------: | -----------: |
-|  Enter your name  |   Owiti Charles |     |
-| Enter your Email Address  | mikeycharlesm7@gmail.com |   |
-| Enter your message or comment   |  I would love to work with you     |     |
-| Press Submit|     |Pop up "Owiti Charles , we have received your message. Thank you for reaching out to us.|
+* Open index.html
+* Enter personal details requested
+
 
 ## Known Bugs
-* The site is not responsive enough for some devices. 
-* mail chimp API does not function properly.
+* No Bugs/ Errors for now but 
+* Website doesnt have a backed. This limits its abilities
 
 ## Contact Information 
 
-If you have any question or contributions, please email me at [mikeycharlesm7@gmail.com]
-
+* Email [pharminous@gmail.com]
+* Contact
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Owiti Charles**
-
+* Copyright (c) 2019 **Pharminous Nyabuto**
