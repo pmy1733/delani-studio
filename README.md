@@ -17,10 +17,17 @@ https://github.com/pmy1733/delani-studio
 
 * git clone ```https://github.com/pmy1733/delani-studio```
 
-* Run Locally from the clonned repo
-* The project can also be run from github pages
+* Open Terminal {Ctrl+Alt+T}
 
-## Technologies Stack
+* git clone https://github.com/pmy1733/delani-studio
+
+* cd Delani_Studio_wk3
+
+* Launch the project in your favorite code editor. {code .}
+
+* Open index.html file with your browser
+
+## Technology Stack
 
 
 * [CSS](https://github.com/topics/css3)
@@ -31,13 +38,16 @@ https://github.com/pmy1733/delani-studio
 
 
 ## BDD
-* Open index.html
-* Enter personal details requested
+* Click under what we do and toggle a paragraph explaining about the service.
+* Hovering over each image to get the name.
+* Enter your details in the contact-us form to send a message to us.
+* A confirmation message will be received upon contacting us.
+* submitting an empty form will prompt you to enter valid information.
 
 
 ## Known Bugs
 * No Bugs/ Errors for now but 
-* Website doesnt have a backed. This limits its abilities
+* The functionalites of the website is limitted as the bankend is yet to be implemented
 
 ## Contact Information 
 
