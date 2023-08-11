@@ -1,6 +1,8 @@
 # Delani Studio  Week 3
 ## Author
 
+**Pharminous Nyabuto:**  
+Experienced Software Engineer focused on the delivery of quality software solutions within budget and on time. Strong skills in Azure DevOps, QA (Manual and Automation), QC, Mobile, Desktop and Web technologies in development, production, deployment, and post-deployment of software. I am a visionary engineer driven by collaboration, passion, excellence, and integrity. Most recently I have been focusing on building pipelines, continuous integration, continuous delivery, deployment, microservice architecture, and the implementation of highly available and scalable automation solutions using DevOps.
 [Pharminous Nyabuto](https://github.com/pmy1733)
 
 ## Project Description
@@ -16,6 +18,7 @@ https://github.com/pmy1733/delani-studio
 * git clone ```https://github.com/pmy1733/delani-studio```
 
 * Run Locally from the clonned repo
+* The project can also be run from github pages
 
 ## Technologies Stack
 
@@ -39,7 +42,7 @@ https://github.com/pmy1733/delani-studio
 ## Contact Information 
 
 * Email [pharminous@gmail.com]
-* Contact
+* Contact 0708098190
 ## License
 * *MIT License:*
-* Copyright (c) 2019 **Pharminous Nyabuto**
+* Copyright (c) 2023 **Pharminous Nyabuto**
